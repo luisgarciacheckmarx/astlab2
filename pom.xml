@@ -140,7 +140,7 @@
             <type>jar</type>
         </dependency>
 
-        <!-- ************* END spring MVC and related dependencies ************** -->
+        <!-- ************* END spring MVC and related dependencies ***dd*********** -->
 
     </dependencies>
 </project>
